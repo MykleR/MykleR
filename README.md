@@ -1,13 +1,13 @@
 <div align="center">
 
-## 🎓 About Me
+# ► About Me 🎓
 Student at **42 School**  
 **C programming** and **low-level development**  
 Bachelor's degree in Computer Science from **University of Bordeaux**  
 Game development with **Unity**   
 Learning Game engine internals and optimizations
 
-## 🛠️ Tech and Stats
+# ► Skills and Stats
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,linux,c,cpp,cs,unity,vim,neovim,js,ts,java,py" />
