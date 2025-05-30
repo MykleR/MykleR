@@ -1,12 +1,5 @@
 <div align="center">
 
-## ► About Me
-Student at 42 School  
-**C** and low-level development     
-Bachelor's degree in Computer Science - **University of Bordeaux**  
-Game development with **Unity**   
-Learning Game engine internals and optimizations
-
 ## ► Skills and Stats
 
 <a href="https://skillicons.dev">
