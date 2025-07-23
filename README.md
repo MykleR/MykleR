@@ -13,3 +13,5 @@
 <a href="https://github.com/oakoudad/badge42">
   <img src="https://badge.mediaplus.ma/darkblue/mrouves?1337Badge=off&UM6P=off" alt="mrouves's 42 stats" />
 </a>
+
+<img src="https://raw.githubusercontent.com/MykleR/MykleR/output/snake.svg" alt="Snake animation" />
