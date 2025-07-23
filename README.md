@@ -2,9 +2,28 @@
 
 ## ► Tech Stack
 
+<!---
 [![Tech Stack](https://skillicons.dev/icons?i=git,linux,arch,debian,bash,vim,neovim,c,cpp,cs,unity&perline=11&theme=dark)](https://skillicons.dev)
 
 [![Tech Stack](https://skillicons.dev/icons?i=js,ts,html,css,java,py&perline=9&theme=dark)](https://skillicons.dev)
+--->
+
+![](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&labelColor=181818&logoColor=white&color=2b3549)
+![](https://img.shields.io/badge/Bash-informational?style=for-the-badge&logo=gnu-bash&&labelColor=181818&logoColor=white&color=2b3549)
+![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&labelColor=181818&logoColor=white&color=2b3549)
+![](https://img.shields.io/badge/Vim-informational?style=for-the-badge&logo=vim&labelColor=181818&logoColor=white&color=2b3549)
+![](https://img.shields.io/badge/Neovim-informational?style=for-the-badge&logo=neovim&labelColor=181818&logoColor=white&color=2b3549)
+![](https://img.shields.io/badge/C-informational?style=for-the-badge&logo=c&labelColor=181818&logoColor=white&color=2b3549)
+![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&labelColor=181818&logoColor=white&color=2b3549)
+![](https://img.shields.io/badge/C%23-informational?style=for-the-badge&logo=.net&labelColor=181818&logoColor=white&color=2b3549)
+#####
+![](https://img.shields.io/badge/Unity-informational?style=for-the-badge&logo=unity&labelColor=181818&logoColor=white&color=2b3549)
+![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&labelColor=181818&logoColor=white&color=2b3549)
+![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=openjdk&labelColor=181818&logoColor=white&color=2b3549)
+![](https://img.shields.io/badge/JS-informational?style=for-the-badge&logo=javascript&labelColor=181818&logoColor=white&color=2b3549)
+![](https://img.shields.io/badge/TS-informational?style=for-the-badge&logo=typescript&labelColor=181818&logoColor=white&color=2b3549)
+![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css&labelColor=181818&logoColor=white&color=2b3549)
+![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&labelColor=181818&logoColor=white&color=2b3549)
 
 ## ► Statistics
 <!---
