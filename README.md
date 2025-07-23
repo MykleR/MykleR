@@ -20,13 +20,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MykleR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&bg_color=30,090a0c,303b51&title_color=fff&text_color=fff&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<!---
-<a href="https://github.com/MykleR/so_long">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MykleR&repo=so_long&theme=dark&bg_color=30,090a0c,303b51&title_color=fff&text_color=fff" />
-</a>
-<a href="https://github.com/MykleR/42-ecs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MykleR&repo=42-ecs&theme=dark&bg_color=30,090a0c,303b51&title_color=fff&text_color=fff" />
-</a>
--->
+<p align="center">
+  <img src="https://github.com/MykleR/MykleR/blob/main/Bottom.svg"/>
+</p>
 
 ###
