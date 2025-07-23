@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MykleR/MykleR/output/snake.svg" alt="Snake animation" />
-
 ## ► Tech Stack
 
 [![Tech Stack](https://skillicons.dev/icons?i=git,linux,arch,debian,bash,vim,neovim,c,cpp,cs,unity&perline=11&theme=dark)](https://skillicons.dev)
