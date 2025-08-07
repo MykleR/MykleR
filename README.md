@@ -20,9 +20,6 @@
 ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&labelColor=181818&logoColor=white&color=2b3549)
 ![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=openjdk&labelColor=181818&logoColor=white&color=2b3549)
 ![](https://img.shields.io/badge/JS-informational?style=for-the-badge&logo=javascript&labelColor=181818&logoColor=white&color=2b3549)
-![](https://img.shields.io/badge/TS-informational?style=for-the-badge&logo=typescript&labelColor=181818&logoColor=white&color=2b3549)
-![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css&labelColor=181818&logoColor=white&color=2b3549)
-![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&labelColor=181818&logoColor=white&color=2b3549)
 
 ## ► Statistics
 <!---
