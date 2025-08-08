@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://github.com/MykleR/MykleR/blob/feature/banner-image/mandelbrot_gap_blue.png" height=250/>
+</p>
+
 ## ► Tech Stack
 
 <!---
