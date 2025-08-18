@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github.com/MykleR/MykleR/blob/main/mandelbrot_gap_blue.png" height=250/>
+  <img src="https://github.com/MykleR/MykleR/blob/main/mandelbrot_gap_blue.png" width=750/>
 </p>
 
 ## ► Tech Stack
